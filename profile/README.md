@@ -3,11 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/harnessprotocol/harness-protocol/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-Apache--2.0-0b9bd4?style=flat-square"></a>
-  <a href="https://harnessprotocol.io/spec"><img alt="Spec" src="https://img.shields.io/badge/schema-v1%20·%20candidate-0b9bd4?style=flat-square"></a>
-  <a href="https://harnessprotocol.io"><img alt="Docs" src="https://img.shields.io/badge/docs-harnessprotocol.io-0b9bd4?style=flat-square"></a>
-  <a href="https://github.com/harnessprotocol/harness-kit"><img alt="harness-kit stars" src="https://img.shields.io/github/stars/harnessprotocol/harness-kit?style=flat-square&color=0b9bd4&label=harness-kit"></a>
-  <a href="https://github.com/harnessprotocol/harness-protocol/tree/main/heps"><img alt="Governance" src="https://img.shields.io/badge/governance-HEP%20process-0b9bd4?style=flat-square"></a>
+  <a href="https://github.com/harnessprotocol/harness-protocol/blob/main/LICENSE"><img alt="License: Apache 2.0" src="https://img.shields.io/badge/license-Apache--2.0-16a34a?style=flat-square"></a>
+  <a href="https://harnessprotocol.io/spec"><img alt="Spec: schema v1 candidate" src="https://img.shields.io/badge/schema-v1%20·%20candidate-0b9bd4?style=flat-square"></a>
+  <a href="https://github.com/harnessprotocol/harness-kit/releases/latest"><img alt="harness-kit latest release" src="https://img.shields.io/github/v/release/harnessprotocol/harness-kit?label=harness-kit&color=7c3aed&style=flat-square"></a>
+  <a href="https://harnessprotocol.io"><img alt="Docs" src="https://img.shields.io/badge/docs-harnessprotocol.io-334155?style=flat-square"></a>
+  <a href="https://harnessprotocol.io/schema/v1/harness.schema.json"><img alt="JSON Schema" src="https://img.shields.io/badge/JSON%20Schema-v1-ea580c?style=flat-square"></a>
+  <a href="https://github.com/harnessprotocol/harness-protocol/blob/main/protocol/mcp-declarations.md"><img alt="MCP compatible" src="https://img.shields.io/badge/MCP-compatible-0891b2?style=flat-square"></a>
+  <a href="https://github.com/harnessprotocol/harness-protocol/blob/main/CONTRIBUTING.md"><img alt="PRs welcome" src="https://img.shields.io/badge/PRs-welcome-10b981?style=flat-square"></a>
 </p>
 
 <p align="center">
