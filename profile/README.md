@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harnessprotocol/.github/main/profile/assets/banner.svg" alt="Harness Protocol — the open standard for AI coding harnesses" width="100%">
+  <img src="https://raw.githubusercontent.com/harnessprotocol/.github/main/profile/assets/banner-2x.png" alt="Harness Protocol — the open standard for AI coding harnesses" width="100%">
 </p>
 
 <p align="center">
